@@ -6,7 +6,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -15,7 +15,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -24,7 +24,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -33,7 +33,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -42,7 +42,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -51,7 +51,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -60,7 +60,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    },
    {
@@ -69,7 +69,7 @@
       "matches":"0",
       "won":"0",
       "loss":"0",
-	  "net_run_rate":"+0.000",
+	  "net_run_rate":"+0.00",
 	  "points":"0"
    }
   
