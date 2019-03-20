@@ -391,6 +391,6 @@
       "date":"5th May 2019",
       "time":"8:00 PM",
       "venue":"Mumbai"
-   },
+   }
    ]
 }
