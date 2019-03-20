@@ -1,1 +1,389 @@
-
+{
+ "wcschedule":[
+   {
+      "match_no":"Match-1",
+      "team1":"England",
+	  "team2":"South Africa",
+      "date":"May 30",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-2",
+      "team1":"Windies",
+	  "team2":"Pakistan",
+      "date":"May 31",
+      "time":"3:00 PM",
+      "venue":"Nottingham"
+   },
+   {
+      "match_no":"Match-3",
+      "team1":"New Zealand",
+	  "team2":"Sri Lanka",
+      "date":"Jun 01",
+      "time":"3:00 PM",
+      "venue":"Cardiff"
+   },
+   {
+      "match_no":"Match-4",
+      "team1":"Afghanistan",
+	  "team2":"Australia",
+      "date":"Jun 01",
+      "time":"6:00 PM",
+      "venue":"Bristol"
+   },
+   {
+      "match_no":"Match-5",
+      "team1":"South Africa",
+	  "team2":"Bangladesh",
+      "date":"Jun 02",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-6",
+      "team1":"England",
+	  "team2":"Pakistan",
+      "date":"Jun 03",
+      "time":"3:00 PM",
+      "venue":"Nottingham"
+   },
+   {
+      "match_no":"Match-7",
+      "team1":"Afghanistan",
+	  "team2":"Sri Lanka",
+      "date":"Jun 04",
+      "time":"3:00 PM",
+      "venue":"Cardiff"
+   },
+   {
+      "match_no":"Match-8",
+      "team1":"South Africa",
+	  "team2":"India",
+      "date":"Jun 05",
+      "time":"3:00 PM",
+      "venue":"Southampton"
+   },
+   {
+      "match_no":"Match-9",
+      "team1":"Bangladesh",
+	  "team2":"New Zealand",
+      "date":"Jun 05",
+      "time":"6:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-10",
+      "team1":"Australia",
+	  "team2":"Windies",
+      "date":"Jun 06",
+      "time":"3:00 PM",
+      "venue":"Nottingham"
+   },
+   {
+      "match_no":"Match-11",
+      "team1":"Pakistan",
+	  "team2":"Sri Lanka",
+      "date":"Jun 07",
+      "time":"3:00 PM",
+      "venue":"Bristol"
+   },
+   {
+      "match_no":"Match-12",
+      "team1":"England",
+	  "team2":"Bangladesh",
+      "date":"Jun 08",
+      "time":"3:00 PM",
+      "venue":"Cardiff"
+   },
+    {
+      "match_no":"Match-13",
+      "team1":"Afghanistan",
+	  "team2":"New Zealand",
+      "date":"Jun 08",
+      "time":"6:00 PM",
+      "venue":"Taunton"
+   },
+   {
+      "match_no":"Match-14",
+      "team1":"India",
+	  "team2":"Australia",
+      "date":"Jun 09",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-15",
+      "team1":"South Africa",
+	  "team2":"Windies",
+      "date":"Jun 10",
+      "time":"3:00 PM",
+      "venue":"Southampton"
+   },
+   {
+      "match_no":"Match-16",
+      "team1":"Bangladesh",
+	  "team2":"Sri Lanka",
+      "date":"Jun 11",
+      "time":"3:00 PM",
+      "venue":"Bristol"
+   },
+   {
+      "match_no":"Match-17",
+      "team1":"Australia",
+	  "team2":"Pakistan",
+      "date":"Jun 12",
+      "time":"3:00 PM",
+      "venue":"Taunton"
+   },
+   {
+      "match_no":"Match-18",
+      "team1":"India",
+	  "team2":"New Zealand",
+      "date":"Jun 13",
+      "time":"3:00 PM",
+      "venue":"Nottingham"
+   },
+   {
+      "match_no":"Match-19",
+      "team1":"England",
+	  "team2":"Windies",
+      "date":"Jun 14",
+      "time":"3:00 PM",
+      "venue":"Southampton"
+   },
+   {
+      "match_no":"Match-20",
+      "team1":"Sri Lanka",
+	  "team2":"Australia",
+      "date":"Jun 15",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-21",
+      "team1":"South Africa",
+	  "team2":"Afghanistan",
+      "date":"Jun 15",
+      "time":"6:00 PM",
+      "venue":"Cardiff"
+   },
+   {
+      "match_no":"Match-22",
+      "team1":"India",
+	  "team2":"Pakistan",
+      "date":"Jun 16",
+      "time":"3:00 PM",
+      "venue":"Manchester"
+   },
+   {
+      "match_no":"Match-23",
+      "team1":"Windies",
+	  "team2":"Bangladesh",
+      "date":"Jun 17",
+      "time":"3:00 PM",
+      "venue":"Taunton"
+   },
+   {
+      "match_no":"Match-24",
+      "team1":"England",
+	  "team2":"Afghanistan",
+      "date":"Jun 18",
+      "time":"3:00 PM",
+      "venue":"Manchester"
+   },
+   {
+      "match_no":"Match-25",
+      "team1":"New Zealand",
+	  "team2":"South Africa",
+      "date":"Jun 19",
+      "time":"3:00 PM",
+      "venue":"Birmingham"
+   },
+   {
+      "match_no":"Match-26",
+      "team1":"Australia",
+	  "team2":"Bangladesh",
+      "date":"Jun 20",
+      "time":"3:00 PM",
+      "venue":"Nottingham"
+   },
+   {
+      "match_no":"Match-27",
+      "team1":"England",
+	  "team2":"Sri Lanka",
+      "date":"Jun 21",
+      "time":"3:00 PM",
+      "venue":"Leeds"
+   },
+   {
+      "match_no":"Match-28",
+      "team1":"India",
+	  "team2":"Afghanistan",
+      "date":"Jun 22",
+      "time":"3:00 PM",
+      "venue":"Southampton"
+   },
+   {
+      "match_no":"Match-29",
+      "team1":"Windies",
+	  "team2":"New Zealand",
+      "date":"Jun 22",
+      "time":"6:00 PM",
+      "venue":"Manchester"
+   },
+    {
+      "match_no":"Match-30",
+      "team1":"Pakistan",
+	  "team2":"South Africa",
+      "date":"Jun 23",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-31",
+      "team1":"Bangladesh",
+	  "team2":"Afghanistan",
+      "date":"Jun 24",
+      "time":"3:00 PM",
+      "venue":"Southampton"
+   },
+   {
+      "match_no":"Match-32",
+      "team1":"England",
+	  "team2":"Australia",
+      "date":"Jun 25",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-33",
+      "team1":"New Zealand",
+	  "team2":"Pakistan",
+      "date":"Jun 26",
+      "time":"3:00 PM",
+      "venue":"Birmingham"
+   },
+   {
+      "match_no":"Match-34",
+      "team1":"Windies",
+	  "team2":"India",
+      "date":"Jun 27",
+      "time":"3:00 PM",
+      "venue":"Manchester"
+   },
+   {
+      "match_no":"Match-35",
+      "team1":"Sri Lanka",
+	  "team2":"South Africa",
+      "date":"Jun 28",
+      "time":"3:00 PM",
+      "venue":"Chester-le-Street"
+   },
+   {
+      "match_no":"Match-36",
+      "team1":"Pakistan",
+	  "team2":"Afghanistan",
+      "date":"Jun 29",
+      "time":"3:00 PM",
+      "venue":"Leeds"
+   },
+   {
+      "match_no":"Match-37",
+      "team1":"New Zealand",
+	  "team2":"Australia",
+      "date":"Jun 29",
+      "time":"6:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-38",
+      "team1":"England",
+	  "team2":"India",
+      "date":"Jun 30",
+      "time":"3:00 PM",
+      "venue":"Birmingham"
+   },
+   {
+      "match_no":"Match-39",
+      "team1":"Sri Lanka",
+	  "team2":"Windies",
+      "date":"Jul 01",
+      "time":"3:00 PM",
+      "venue":"Chester-le-Street"
+   },
+   {
+      "match_no":"Match-40",
+      "team1":"Bangladesh",
+	  "team2":"India",
+      "date":"Jul 02",
+      "time":"3:00 PM",
+      "venue":"Birmingham"
+   },
+   {
+      "match_no":"Match-41",
+      "team1":"England",
+	  "team2":"New Zealand",
+      "date":"Jul 03",
+      "time":"3:00 PM",
+      "venue":"Chester-le-Street"
+   },
+   {
+      "match_no":"Match-42",
+      "team1":"Afghanistan",
+	  "team2":"Windies",
+      "date":"Jul 04",
+      "time":"3:00 PM",
+      "venue":"Leeds"
+   },
+   {
+      "match_no":"Match-43",
+      "team1":"Pakistan",
+	  "team2":"Bangladesh",
+      "date":"Jul 05",
+      "time":"3:00 PM",
+      "venue":"London"
+   },
+   {
+      "match_no":"Match-44",
+      "team1":"Sri Lanka",
+	  "team2":"India",
+      "date":"Jul 06",
+      "time":"3:00 PM",
+      "venue":"Leeds"
+   },
+   {
+      "match_no":"Match-45",
+      "team1":"Australia",
+	  "team2":"South Africa",
+      "date":"Jul 06",
+      "time":"6:00 PM",
+      "venue":"Manchester"
+   },
+   {
+      "match_no":"Semifinal-1",
+      "team1":"TBC",
+	  "team2":"TBC",
+      "date":"Jul 09",
+      "time":"3:00 PM",
+      "venue":"Manchester"
+   },
+    {
+      "match_no":"Semifinal-2",
+      "team1":"TBC",
+	  "team2":"TBC",
+      "date":"Jul 11",
+      "time":"3:00 PM",
+      "venue":"Birmingham"
+   },
+   {
+      "match_no":"Final",
+      "team1":"TBC",
+	  "team2":"TBC",
+      "date":"Jul 14",
+      "time":"3:00 PM",
+      "venue":"London"
+   }
+  
+   ]
+}
