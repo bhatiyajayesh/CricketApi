@@ -21,20 +21,20 @@
    {
       "No":"3",
       "team":"KXIP",
-      "matches":"1",
+      "matches":"2",
       "won":"1",
-      "loss":"0",
-	  "net_run_rate":"+0.700",
+      "loss":"1",
+	  "net_run_rate":"-0.350",
 	  "points":"2"
    },
    {
       "No":"4",
       "team":"KKR",
-      "matches":"1",
-      "won":"1",
+      "matches":"2",
+      "won":"2",
       "loss":"0",
-	  "net_run_rate":"+0.255",
-	  "points":"2"
+	  "net_run_rate":"+0.834",
+	  "points":"4"
    },
    {
       "No":"5",
