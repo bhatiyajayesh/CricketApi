@@ -48,10 +48,10 @@
    {
       "No":"6",
       "team":"RR",
-      "matches":"1",
+      "matches":"2",
       "won":"0",
-      "loss":"1",
-	  "net_run_rate":"-0.700",
+      "loss":"2",
+	  "net_run_rate":"-0.672",
 	  "points":"0"
    },
    {
@@ -66,11 +66,11 @@
    {
       "No":"8 ",
       "team":"SRH",
-      "matches":"1",
-      "won":"0",
+      "matches":"2",
+      "won":"1",
       "loss":"1",
-	  "net_run_rate":"-0.255",
-	  "points":"0"
+	  "net_run_rate":"+0.190",
+	  "points":"2"
    }
   
    ]
