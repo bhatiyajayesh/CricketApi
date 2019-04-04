@@ -3,10 +3,10 @@
    {
       "No":"1",
       "team":"CSK",
-      "matches":"3",
+      "matches":"4",
       "won":"3",
-      "loss":"0",
-	  "net_run_rate":"+0.507",
+      "loss":"1",
+	  "net_run_rate":"-0.084",
 	  "points":"6"
    },
    {
@@ -39,11 +39,11 @@
    {
       "No":"5",
       "team":"MI",
-      "matches":"3",
-      "won":"1",
+      "matches":"4",
+      "won":"2",
       "loss":"2",
-	  "net_run_rate":"-0.750",
-	  "points":"2"
+	  "net_run_rate":"-0.087",
+	  "points":"4"
    },
    {
       "No":"6",
