@@ -3,11 +3,11 @@
    {
       "No":"1",
       "team":"CSK",
-      "matches":"6",
-      "won":"5",
+      "matches":"7",
+      "won":"6",
       "loss":"1",
-	  "net_run_rate":"+0.310",
-	  "points":"10"
+	  "net_run_rate":"+0.299",
+	  "points":"12"
    },
    {
       "No":"2",
@@ -48,10 +48,10 @@
    {
       "No":"6",
       "team":"RR",
-      "matches":"5",
+      "matches":"6",
       "won":"1",
-      "loss":"4",
-	  "net_run_rate":"-0.848",
+      "loss":"5",
+	  "net_run_rate":"-0.725",
 	  "points":"2"
    },
    {
