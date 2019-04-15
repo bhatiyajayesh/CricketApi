@@ -3,20 +3,20 @@
    {
       "No":"1",
       "team":"CSK",
-      "matches":"7",
-      "won":"6",
+      "matches":"8",
+      "won":"7",
       "loss":"1",
-	  "net_run_rate":"+0.299",
-	  "points":"12"
+	  "net_run_rate":"+0.288",
+	  "points":"14"
    },
    {
       "No":"2",
       "team":"DC",
-      "matches":"7",
-      "won":"4",
+      "matches":"8",
+      "won":"5",
       "loss":"3",
-	  "net_run_rate":"+0.197",
-	  "points":"8"
+	  "net_run_rate":"+0.418",
+	  "points":"10"
    },
    {
       "No":"3",
@@ -30,10 +30,10 @@
    {
       "No":"4",
       "team":"KKR",
-      "matches":"7",
+      "matches":"8",
       "won":"4",
-      "loss":"3",
-	  "net_run_rate":"+0.434",
+      "loss":"4",
+	  "net_run_rate":"+0.350",
 	  "points":"8"
    },
    {
@@ -66,10 +66,10 @@
    {
       "No":"8 ",
       "team":"SRH",
-      "matches":"6",
+      "matches":"7",
       "won":"3",
-      "loss":"3",
-	  "net_run_rate":"+0.810",
+      "loss":"4",
+	  "net_run_rate":"+0.409",
 	  "points":"6"
    }
   
