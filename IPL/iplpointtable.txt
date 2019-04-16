@@ -39,11 +39,11 @@
    {
       "No":"5",
       "team":"MI",
-      "matches":"7",
-      "won":"4",
+      "matches":"8",
+      "won":"5",
       "loss":"3",
-	  "net_run_rate":"+0.209",
-	  "points":"8"
+	  "net_run_rate":"+0.244",
+	  "points":"10"
    },
    {
       "No":"6",
@@ -57,10 +57,10 @@
    {
       "No":"7",
       "team":"RCB",
-      "matches":"7",
+      "matches":"8",
       "won":"1",
-      "loss":"6",
-	  "net_run_rate":"-1.202",
+      "loss":"7",
+	  "net_run_rate":"-1.114",
 	  "points":"2"
    },
    {
