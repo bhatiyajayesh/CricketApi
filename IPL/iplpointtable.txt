@@ -30,10 +30,10 @@
    {
       "No":"4",
       "team":"KKR",
-      "matches":"10",
+      "matches":"11",
       "won":"4",
-      "loss":"6",
-	  "net_run_rate":"-0.013",
+      "loss":"7",
+	  "net_run_rate":"-0.050",
 	  "points":"8"
    },
    {
@@ -48,11 +48,11 @@
    {
       "No":"6",
       "team":"RR",
-      "matches":"10",
-      "won":"3",
+      "matches":"11",
+      "won":"4",
       "loss":"7",
-	  "net_run_rate":"-0.470",
-	  "points":"6"
+	  "net_run_rate":"-0.390",
+	  "points":"8"
    },
    {
       "No":"7",
