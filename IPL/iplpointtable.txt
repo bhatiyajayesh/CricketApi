@@ -12,11 +12,11 @@
    {
       "No":"2",
       "team":"DC",
-      "matches":"11",
-      "won":"7",
+      "matches":"12",
+      "won":"8",
       "loss":"4",
-	  "net_run_rate":"+0.181",
-	  "points":"14"
+	  "net_run_rate":"+0.233",
+	  "points":"16"
    },
    {
       "No":"3",
@@ -30,19 +30,19 @@
    {
       "No":"4",
       "team":"KKR",
-      "matches":"11",
-      "won":"4",
+      "matches":"12",
+      "won":"5",
       "loss":"7",
-	  "net_run_rate":"-0.050",
-	  "points":"8"
+	  "net_run_rate":"+0.100",
+	  "points":"10"
    },
    {
       "No":"5",
       "team":"MI",
-      "matches":"11",
+      "matches":"12",
       "won":"7",
-      "loss":"4",
-	  "net_run_rate":"+0.537",
+      "loss":"8",
+	  "net_run_rate":"+0.347",
 	  "points":"14"
    },
    {
@@ -57,10 +57,10 @@
    {
       "No":"7",
       "team":"RCB",
-      "matches":"11",
+      "matches":"12",
       "won":"4",
-      "loss":"7",
-	  "net_run_rate":"-0.683",
+      "loss":"8",
+	  "net_run_rate":"-0.694",
 	  "points":"8"
    },
    {
