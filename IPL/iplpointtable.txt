@@ -21,10 +21,10 @@
    {
       "No":"3",
       "team":"KXIP",
-      "matches":"11",
+      "matches":"12",
       "won":"5",
-      "loss":"6",
-	  "net_run_rate":"-0.117",
+      "loss":"7",
+	  "net_run_rate":"-0.296",
 	  "points":"10"
    },
    {
@@ -66,11 +66,11 @@
    {
       "No":"8 ",
       "team":"SRH",
-      "matches":"11",
-      "won":"5",
+      "matches":"12",
+      "won":"6",
       "loss":"6",
-	  "net_run_rate":"+0.559",
-	  "points":"10"
+	  "net_run_rate":"+0.709",
+	  "points":"12"
    }
   
    ]
