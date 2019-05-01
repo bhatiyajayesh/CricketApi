@@ -48,20 +48,20 @@
    {
       "No":"6",
       "team":"RR",
-      "matches":"12",
+      "matches":"13",
       "won":"5",
       "loss":"7",
 	  "net_run_rate":"-0.321",
-	  "points":"10"
+	  "points":"11"
    },
    {
       "No":"7",
       "team":"RCB",
-      "matches":"12",
+      "matches":"13",
       "won":"4",
       "loss":"8",
 	  "net_run_rate":"-0.694",
-	  "points":"8"
+	  "points":"9"
    },
    {
       "No":"8 ",
