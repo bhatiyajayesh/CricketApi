@@ -3,19 +3,19 @@
    {
       "No":"1",
       "team":"CSK",
-      "matches":"12",
-      "won":"8",
+      "matches":"13",
+      "won":"9",
       "loss":"4",
-	  "net_run_rate":"-0.113",
-	  "points":"16"
+	  "net_run_rate":"+0.209",
+	  "points":"18"
    },
    {
       "No":"2",
       "team":"DC",
-      "matches":"12",
+      "matches":"13",
       "won":"8",
-      "loss":"4",
-	  "net_run_rate":"+0.233",
+      "loss":"5",
+	  "net_run_rate":"-0.096",
 	  "points":"16"
    },
    {
