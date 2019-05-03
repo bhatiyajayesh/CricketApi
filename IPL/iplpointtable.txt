@@ -39,11 +39,11 @@
    {
       "No":"5",
       "team":"MI",
-      "matches":"12",
-      "won":"7",
-      "loss":"8",
-	  "net_run_rate":"+0.347",
-	  "points":"14"
+      "matches":"13",
+      "won":"8",
+      "loss":"5",
+	  "net_run_rate":"+0.321",
+	  "points":"16"
    },
    {
       "No":"6",
@@ -66,10 +66,10 @@
    {
       "No":"8 ",
       "team":"SRH",
-      "matches":"12",
+      "matches":"13",
       "won":"6",
-      "loss":"6",
-	  "net_run_rate":"+0.709",
+      "loss":"7",
+	  "net_run_rate":"+0.653",
 	  "points":"12"
    }
   
