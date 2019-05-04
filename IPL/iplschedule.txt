@@ -396,28 +396,28 @@
       "match_no":"Qualifier 1",
       "teams":"TBC Vs TBC",
       "date":"7th May 2019",
-      "time":"8:00 PM",
+      "time":"7:30 PM",
       "venue":"Chennai"
    },
    {
       "match_no":"Eliminator",
       "teams":"TBC Vs TBC",
       "date":"8th May 2019",
-      "time":"8:00 PM",
+      "time":"7:30 PM",
       "venue":"Visakhapatnam"
    },
    {
       "match_no":"Qualifier 2",
       "teams":"TBC Vs TBC",
       "date":"10th May 2019",
-      "time":"8:00 PM",
+      "time":"7:30 PM",
       "venue":"Visakhapatnam"
    },
    {
       "match_no":"Final",
       "teams":"TBC Vs TBC",
       "date":"12th May 2019",
-      "time":"8:00 PM",
+      "time":"7:30 PM",
       "venue":"Hyderabad"
    }
    ]
