@@ -12,11 +12,11 @@
    {
       "No":"2",
       "team":"DC",
-      "matches":"13",
-      "won":"8",
+      "matches":"14",
+      "won":"9",
       "loss":"5",
-	  "net_run_rate":"-0.096",
-	  "points":"16"
+	  "net_run_rate":"+0.044",
+	  "points":"18"
    },
    {
       "No":"3",
@@ -48,28 +48,28 @@
    {
       "No":"6",
       "team":"RR",
-      "matches":"13",
+      "matches":"14",
       "won":"5",
-      "loss":"7",
-	  "net_run_rate":"-0.321",
+      "loss":"8",
+	  "net_run_rate":"-0.449",
 	  "points":"11"
    },
    {
       "No":"7",
       "team":"RCB",
-      "matches":"13",
-      "won":"4",
+      "matches":"14",
+      "won":"5",
       "loss":"8",
-	  "net_run_rate":"-0.694",
-	  "points":"9"
+	  "net_run_rate":"-0.607",
+	  "points":"11"
    },
    {
       "No":"8 ",
       "team":"SRH",
-      "matches":"13",
+      "matches":"14",
       "won":"6",
-      "loss":"7",
-	  "net_run_rate":"+0.653",
+      "loss":"8",
+	  "net_run_rate":"+0.577",
 	  "points":"12"
    }
   
