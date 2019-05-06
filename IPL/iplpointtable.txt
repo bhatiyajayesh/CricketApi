@@ -3,10 +3,10 @@
    {
       "No":"1",
       "team":"CSK",
-      "matches":"13",
+      "matches":"14",
       "won":"9",
-      "loss":"4",
-	  "net_run_rate":"+0.209",
+      "loss":"5",
+	  "net_run_rate":"+0.131",
 	  "points":"18"
    },
    {
@@ -21,29 +21,29 @@
    {
       "No":"3",
       "team":"KXIP",
-      "matches":"13",
-      "won":"5",
+      "matches":"14",
+      "won":"6",
       "loss":"8",
-	  "net_run_rate":"-0.351",
-	  "points":"10"
+	  "net_run_rate":"-0.251",
+	  "points":"12"
    },
    {
       "No":"4",
       "team":"KKR",
-      "matches":"13",
+      "matches":"14",
       "won":"6",
-      "loss":"7",
-	  "net_run_rate":"+0.173",
+      "loss":"8",
+	  "net_run_rate":"+0.028",
 	  "points":"12"
    },
    {
       "No":"5",
       "team":"MI",
-      "matches":"13",
-      "won":"8",
+      "matches":"14",
+      "won":"9",
       "loss":"5",
-	  "net_run_rate":"+0.321",
-	  "points":"16"
+	  "net_run_rate":"+0.421",
+	  "points":"18"
    },
    {
       "No":"6",
