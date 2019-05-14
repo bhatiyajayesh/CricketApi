@@ -121,7 +121,7 @@
       "venue": "Match 20 - The Oval, London"
     },
     {
-      "Venue": "Match 21 - Sophia Gardens, Cardiff",
+      "venue": "Match 21 - Sophia Gardens, Cardiff",
       "date": "Sat, 15 Jun 2019 06:00 PM",
       "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
       "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png"
