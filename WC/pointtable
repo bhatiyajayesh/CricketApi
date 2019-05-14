@@ -1,21 +1,21 @@
 {
   "Points Table" : [ 
   {
-    "p" : 1,
-    "w" : 1,
+    "p" : 0,
+    "w" : 0,
     "l" : 0,
     "nr" : 0,
-    "pts" : 2,
-    "nrr" : 0.25,
+    "pts" : 0,
+    "nrr" : 0,
     "team_name" : "India"
     
   }, {
-    "p" : 2,
-    "w" : 2,
+    "p" : 0,
+    "w" : 0,
     "l" : 0,
     "nr" : 0,
-    "pts" : 4,
-    "nrr" : 0.5,
+    "pts" : 0,
+    "nrr" : 0,
     "team_name" : "Afghanistan"
   }, {
     "p" : 0,
