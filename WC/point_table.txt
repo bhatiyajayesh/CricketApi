@@ -1,0 +1,94 @@
+{
+  "Points Table": [
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "India"
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "Afghanistan"
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "Australia"
+    },
+    {
+      "l": 0,
+      "m": 0,
+      "nr": 0,
+      "nrr": 0,
+      "pts": 0,
+      "team_name": "Bangladesh",
+      "w": 0
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "England"
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "New Zealand"
+    },
+    {
+      "l": 0,
+      "m": 0,
+      "nr": 0,
+      "nrr": 0,
+      "pts": 0,
+      "team_name": "Pakistan",
+      "w": 0
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "South Africa"
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "Sri Lanka"
+    },
+    {
+      "p": 0,
+      "w": 0,
+      "l": 0,
+      "nr": 0,
+      "pts": 0,
+      "nrr": 0,
+      "team_name": "West Indies"
+    }
+  ]
+}
