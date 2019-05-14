@@ -28,13 +28,13 @@
       "team_name": "Australia"
     },
     {
+       "p": 0,
+      "w": 0,
       "l": 0,
-      "m": 0,
       "nr": 0,
-      "nrr": 0,
       "pts": 0,
-      "team_name": "Bangladesh",
-      "w": 0
+      "nrr": 0,
+      "team_name": "Bangladesh"
     },
     {
       "p": 0,
@@ -55,13 +55,13 @@
       "team_name": "New Zealand"
     },
     {
+      "p": 0,
+      "w": 0,
       "l": 0,
-      "m": 0,
       "nr": 0,
-      "nrr": 0,
       "pts": 0,
-      "team_name": "Pakistan",
-      "w": 0
+      "nrr": 0,
+      "team_name": "Pakistan"
     },
     {
       "p": 0,
