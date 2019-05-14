@@ -1,5 +1,5 @@
 {
-  "Points Table": [
+  "PointsTable": [
     {
       "p": 1,
       "w": 1,
