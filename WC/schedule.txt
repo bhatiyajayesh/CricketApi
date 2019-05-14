@@ -1,0 +1,292 @@
+{
+  "Schedule": [
+    {
+      "date": "Thu, 30 May 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "venue": "Match 1 - The Oval, London"
+    },
+    {
+      "date": "Fri, 31 May 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "venue": "Match 2 - Trent Bridge, Nottingham"
+    },
+    {
+      "date": "Sat, 01 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "venue": "Match 3 - Sophia Gardens, Cardiff"
+    },
+    {
+      "date": "Sat, 01 Jun 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "venue": "Match 4 - County Ground, Bristol"
+    },
+    {
+      "date": "Sun, 02 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "venue": "Match 5 - The Oval London"
+    },
+    {
+      "date": "Mon, 03 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "venue": "Match 6 - Trent Bridge, Nottingham"
+    },
+    {
+      "date": "Tue, 04 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "venue": "Match 7 - Sophia Gardens, Cardiff"
+    },
+    {
+      "date": "Wed, 05 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "venue": "Match 8 - Rose Bowl, Southampton"
+    },
+    {
+      "date": "Wed, 05 Jun 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "venue": "Match 9 - The Oval, London"
+    },
+    {
+      "date": "Thu, 06 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "venue": "Match 10 - Trent Bridge, Nottingham"
+    },
+    {
+      "date": "Fri, 07 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "venue": "Match 11 - County Ground, Bristol"
+    },
+    {
+      "date": "Sat, 08 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "venue": "Match 12 - Sophia Gardens, Cardiff"
+    },
+    {
+      "date": "Sat, 08 Jun 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "venue": "Match 13 - County Ground, Taunton"
+    },
+    {
+      "date": "Sun, 09 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "venue": "Match 14 - The Oval, London"
+    },
+    {
+      "date": "Mon, 10 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "venue": "Match 15 - Rose Bowl, Southampton"
+    },
+    {
+      "date": "Tue, 11 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "venue": "Match 16 - County Ground, Bristol"
+    },
+    {
+      "date": "Wed, 12 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "venue": "Match 17 - County Ground, Taunton"
+    },
+    {
+      "date": "Thu, 13 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "venue": "Match 18 - Trent Bridge, Nottingham"
+    },
+    {
+      "date": "Fri, 14 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "venue": "Match 19 - Rose Bowl, Southampton"
+    },
+    {
+      "date": "Sat, 15 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "venue": "Match 20 - The Oval, London"
+    },
+    {
+      "Venue": "Match 21 - Sophia Gardens, Cardiff",
+      "date": "Sat, 15 Jun 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png"
+    },
+    {
+      "date": "Sun, 16 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "venue": "Match 22 - Old Trafford, Manchester"
+    },
+    {
+      "date": "Mon, 17 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "venue": "Match 23 - County Ground, Taunton"
+    },
+    {
+      "date": "Tue, 18 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "venue": "Match 24 - Old Trafford, Manchester"
+    },
+    {
+      "date": "Wed, 19 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "venue": "Match 25 - Edgbaston, Birmingham"
+    },
+    {
+      "date": "Thu, 20 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "venue": "Match 26 - Trent Bridge, Nottingham"
+    },
+    {
+      "date": "Fri, 21 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "venue": "Match 27 - Headingley, Leeds"
+    },
+    {
+      "date": "Sat, 22 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "venue": "Match 28 - Rose Bowl, Southampton"
+    },
+    {
+      "date": "Sat, 22 Jun 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "venue": "Match 29 - Old Trafford, Manchester"
+    },
+    {
+      "date": "Sun, 23 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "venue": "Match 30 - Lord's, London"
+    },
+    {
+      "date": "Mon, 24 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "venue": "Match 31 - Rose Bowl, Southampton"
+    },
+    {
+      "date": "Tue, 25 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "venue": "Match 32 - Lord's, London"
+    },
+    {
+      "date": "Wed, 26 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "venue": "Match 33 - Edgbaston, Birmingham"
+    },
+    {
+      "date": "Thu, 27 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "venue": "Match 34 - Old Trafford, Manchester"
+    },
+    {
+      "date": "Fri, 28 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "venue": "Match 35 - Riverside Ground, Chester-le-Street"
+    },
+    {
+      "date": "Sat, 29 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "venue": "Match 36 - Headingley, Leeds"
+    },
+    {
+      "date": "Sat, 29 Jun 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "venue": "Match 37 - Lord's, London"
+    },
+    {
+      "date": "Sun, 30 Jun 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "venue": "Match 38 - Edgbaston, Birmingham"
+    },
+    {
+      "date": "Mon, 01 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "venue": "Match 39 - Riverside Ground, Chester-le-Street"
+    },
+    {
+      "date": "Tue, 02 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "venue": "Match 40 - Edgbaston, Birmingham"
+    },
+    {
+      "date": "Wed, 03 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/eng_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nz_1.png",
+      "venue": "Match 41 - Riverside Ground, Chester-le-Street"
+    },
+    {
+      "date": "Thu, 04 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/afg_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/wi_1.png",
+      "venue": "Match 42 - Headingley, Leeds"
+    },
+    {
+      "date": "Fri, 05 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/pak_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ban_1.png",
+      "venue": "Match 43 - Lord's, London"
+    },
+    {
+      "date": "Sat, 06 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/sl_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/ind_1.png",
+      "venue": "Match 44 - Headingley, Leeds"
+    },
+    {
+      "date": "Sat, 06 Jul 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/aus_1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/nuziland_1.png",
+      "venue": "Match 45 - Old Trafford, Manchester"
+    },
+    {
+      "date": "Tue, 09 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/tbc-1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/tbc-1.png",
+      "venue": "1st Semi-Final - Old Trafford, Manchester"
+    },
+    {
+      "date": "Thu, 11 Jul 2019 03:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/tbc-1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/tbc-1.png",
+      "venue": "2nd Semi-Final - Edgbaston, Birmingham"
+    },
+    {
+      "date": "Sun, 14 Jul 2019 06:00 PM",
+      "t1": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/tbc-1.png",
+      "t2": "https://raw.githubusercontent.com/bhatiyajayesh/CricketApi/master/WC/TeamFlag/tbc-1.png",
+      "venue": "Final - Lord's, London"
+    }
+  ]
+}
